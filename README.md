@@ -1,5 +1,3 @@
-mauds-whq-from-1998-march-27
-============================
 # Muad's Whq website snapshot from 1998
 
 Muad's Whq from 1997 was a personal homepage for the programmer MuadDib.
